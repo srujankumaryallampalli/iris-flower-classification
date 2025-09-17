@@ -1,10 +1,10 @@
-# 🌸 Iris Flower Classification
+#  Iris Flower Classification
 
 A machine learning project to classify Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — based on the dimensions of their petals and sepals. This project uses various classification algorithms and evaluates their performance to determine the most accurate model.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: [Kaggle - Iris Flower Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
@@ -17,7 +17,7 @@ A machine learning project to classify Iris flowers into three species — *Seto
 
 ---
 
-## 📊 Project Goals
+##  Project Goals
 
 - Develop classification models to identify Iris flower species.
 - Perform exploratory data analysis (EDA) and visualize patterns.
@@ -26,7 +26,7 @@ A machine learning project to classify Iris flowers into three species — *Seto
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 This project compares the performance of five different classifiers:
 
@@ -38,14 +38,14 @@ This project compares the performance of five different classifiers:
 | Decision Tree           | 93.33%   |
 | Random Forest           | 95.56%   |
 
-✅ **Logistic Regression** was selected as the final model due to its high accuracy and interpretability.
+ **Logistic Regression** was selected as the final model due to its high accuracy and interpretability.
 
 ---
 
-## 🗂️ Project Structure
+## 🗂 Project Structure
 
 ```
-📁 iris-flower-classification/
+ iris-flower-classification/
 ├── iris_confusion_matrix_added.ipynb  # Main Jupyter notebook
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
@@ -55,7 +55,7 @@ This project compares the performance of five different classifiers:
 
 ---
 
-## 📈 Results & Visualizations
+##  Results & Visualizations
 
 The final model was evaluated using:
 - Accuracy Score
@@ -70,9 +70,9 @@ Visualizations include:
 
 ---
 
-## 📦 Installation
+##  Installation
 
-### 🔧 Requirements
+###  Requirements
 
 Install required Python packages:
 
@@ -88,7 +88,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 1. Clone this repository
 2. Open the Jupyter notebook:
@@ -99,20 +99,20 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♀️ Acknowledgements
+##  Acknowledgements
 
 - [Kaggle - Iris Flower Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 - Scikit-learn and Matplotlib documentation
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning for better accuracy
 - Integration with a simple web app (e.g., using Streamlit)
