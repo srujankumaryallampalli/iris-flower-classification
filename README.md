@@ -42,7 +42,7 @@ This project compares the performance of five different classifiers:
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
  iris-flower-classification/
